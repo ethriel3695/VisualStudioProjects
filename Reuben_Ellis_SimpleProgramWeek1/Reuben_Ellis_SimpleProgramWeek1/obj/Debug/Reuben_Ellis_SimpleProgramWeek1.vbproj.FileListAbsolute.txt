@@ -1,0 +1,11 @@
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\bin\Debug\Reuben_Ellis_SimpleProgramWeek1.exe.config
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\bin\Debug\Reuben_Ellis_SimpleProgramWeek1.exe
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\bin\Debug\Reuben_Ellis_SimpleProgramWeek1.pdb
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\bin\Debug\Reuben_Ellis_SimpleProgramWeek1.xml
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.DisplayHelloForm.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.Resources.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.Reuben_Ellis_SimpleProgramWeek1.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.vbproj.GenerateResource.Cache
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.exe
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.xml
+c:\users\ethri\documents\visual studio 2015\Projects\Reuben_Ellis_SimpleProgramWeek1\Reuben_Ellis_SimpleProgramWeek1\obj\Debug\Reuben_Ellis_SimpleProgramWeek1.pdb

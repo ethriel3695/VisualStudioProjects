@@ -1,0 +1,12 @@
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.exe.config
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.exe
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.pdb
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.xml
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.vbprojResolveAssemblyReference.cache
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.MainForm.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.MessageForm.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.Resources.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.vbproj.GenerateResource.Cache
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.exe
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.xml
+c:\users\ethri\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.pdb

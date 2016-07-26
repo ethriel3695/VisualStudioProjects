@@ -1,0 +1,11 @@
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\bin\Debug\Menu Demo.exe.config
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\bin\Debug\Menu Demo.exe
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\bin\Debug\Menu Demo.pdb
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\bin\Debug\Menu Demo.xml
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbprojResolveAssemblyReference.cache
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu_Demo.Form1.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu_Demo.Resources.resources
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu Demo.vbproj.GenerateResource.Cache
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu Demo.exe
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu Demo.xml
+c:\users\ethri\documents\visual studio 2015\Projects\Menu Demo\Menu Demo\obj\Debug\Menu Demo.pdb
